@@ -9,11 +9,11 @@
 
 5. A Total of 7 Design Patterns Used
 
-Creational : Singleton , Abstract Factory
+  Creational : Singleton , Abstract Factory
 
-Structural : Composite, Decorartor
+  Structural : Composite, Decorartor
 
-Behavioral : Strategy, Observer and State.
+  Behavioral : Strategy, Observer and State.
 
 6. Multiple UML State Diagrams Designed for the purpose Attack State Diagram, Level UP state Diagram and Game Restart.
 
