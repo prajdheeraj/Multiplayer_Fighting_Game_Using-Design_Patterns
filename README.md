@@ -8,6 +8,7 @@
 4.XP Calculationa and Weapons Unlocking based on the fighter level.
 
 5.A Total of 7 Design Patterns Used
+
 Creational : Singleton , Abstract Factory
 
 Structural : Composite, Decorartor
